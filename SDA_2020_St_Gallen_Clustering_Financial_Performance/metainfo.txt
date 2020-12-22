@@ -1,6 +1,6 @@
-Name of Quantlet: 'US Financial Performance during Pandemic  Using Clustering'
+Name of Quantlet: 'SDA_2020_Financial_Performance_Clustering'
 
-Published in: 'Smart Data Analysis, University of St.Gallen,2020'
+Published in: 'Smart Data Analytics, University of St.Gallen,2020'
 
 Description: 'Scrape S&P 500 component stocks from the start of pandemic and Cluster their performance using different clusering methods'
 
