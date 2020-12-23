@@ -1,0 +1,17 @@
+Name of Quantlet: 'SDA_2020_Financial_Performance_Clustering'
+
+Published in: 'Smart Data Analytics, University of St.Gallen,2020'
+
+Description: 'Scrape S&P 500 component stocks from the start of pandemic and Cluster their performance using different clusering methods'
+
+Output: 'Cluster plots from yahoo finance dataset'
+
+Keywords: 'Webscraping,Financial Performance,Hierarchical Clustering,Agglomerative Clustering,K-means Clustering'
+
+Author: 'Haochen Li, Chung Shun Man'
+
+Submitted: '22 December 2020'
+
+Input: 'The program is self-produced. The input the historical price of S&P 500 component stocks'
+
+Output: 'Plots of Hierarchical Clustering,Agglomerative Clustering,K-means Clustering'
